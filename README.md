@@ -10,9 +10,9 @@
 
 ## 📌 Recent Projects
 
-- ** Candidate Search Agent ** — RAG, Redis, OpenAI, Python / FastApi, HTML/CSS/JS
-- ** Resume Parser ** — SQS, Lambda, Java / Spring Boot, RDS/S3, pgvector, React
-- ** Penn Ball V2 ** — Python / FastAPI, React, Scikit-learn, Claude API
+- Candidate Search Agent (RAG, Redis, OpenAI, Python / FastApi, HTML/CSS/JS)
+- Resume Parser (SQS, Lambda, Java / Spring Boot, RDS/S3, pgvector, React)
+- Penn Ball V2 (Python / FastAPI, React, Scikit-learn, Claude API)
 
 ## ⌨️ Technologies
 
@@ -26,4 +26,9 @@
 
 ## 😊 Connect with me!
 
-[LinkedIn](https://www.linkedin.com/in/bruce-xu-893485175/)
+[![LinkedIn][LinkedIn]][LinkedIn-url] [![Gmail][Gmail]][Gmail-url]
+
+[LinkedIn]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[LinkedIn-url]: https://www.linkedin.com/in/bruce-xu-893485175/
+[Gmail]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[Gmail-url]: mailto:xudage2011@gmail.com
