@@ -4,9 +4,7 @@
 
 ## 📝 About Me
 
-- Software Engineer
-- Interested in backend systems, distributed systems, and AI
-- Building with Java, Spring Boot, Python, AWS, and React
+- Software Engineer interested in backend systems, distributed systems, and AI
 
 ## 📌 Recent Projects
 
