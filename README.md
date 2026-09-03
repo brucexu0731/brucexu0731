@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Bruce! 👋
+### This is my new GitHub account~ my previous one tied to my engineering school email expired 😭
+---
 
-<!--
-**brucexu0731/brucexu0731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📝 About Me
 
-Here are some ideas to get you started:
+- Software Engineer
+- Interested in backend systems, distributed systems, and AI
+- Building with Java, Spring Boot, Python, AWS, and React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Recent Projects
+
+- ** Candidate Search Agent ** — RAG, Redis, OpenAI, Python / FastApi, HTML/CSS/JS
+- ** Resume Parser ** — SQS, Lambda, Java / Spring Boot, RDS/S3, pgvector, React
+- ** Penn Ball V2 ** — Python / FastAPI, React, Scikit-learn, Claude API
+
+## ⌨️ Technologies
+
+- **Languages:** Java, Python, TypeScript, JavaScript, SQL, HTML, CSS, C++, Ruby
+- **Frameworks:** Spring Boot, FastAPI, React, Node, Express, MaterialUI, LangChain
+- **Cloud/Tools:** AWS, Docker, Redis, MySQL/PostgreSQL, Kafka, GitHub Actions, Kubernetes 
+
+## ✨ Interests
+
+- In my free time, I love to work out, play basketball and hang out with my gf!
+
+## 😊 Connect with me!
+
+[LinkedIn](https://www.linkedin.com/in/bruce-xu-893485175/)
