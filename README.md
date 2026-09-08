@@ -18,11 +18,11 @@
 - **Frameworks:** Spring Boot, FastAPI, React, Node, Express, MaterialUI, LangChain
 - **Cloud/Tools:** AWS, Docker, Redis, MySQL/PostgreSQL, Kafka, GitHub Actions, Kubernetes 
 
-## ✨ Interests
+## 🤓 Interests
 
-- In my free time, I love to work out, play basketball and hang out with my gf!
+- In my free time, I love to work out, play basketball and hang out with my gf
 
-## 😊 Connect with me!
+## 😎 Connect with me 
 
 [![LinkedIn][LinkedIn]][LinkedIn-url] [![Gmail][Gmail]][Gmail-url]
 
