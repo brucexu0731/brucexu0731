@@ -20,7 +20,7 @@
 
 ## 🤓 Interests
 
-- In my free time, I love to work out, play basketball and hang out with my gf
+- In my free time, I love to work out, play basketball and eat food
 
 ## 😎 Connect with me 
 
