@@ -8,7 +8,7 @@
 
 ## 📌 Recent Projects
 
-- Candidate Search Agent (RAG, Redis, OpenAI, Python / FastApi, HTML/CSS/JS)
+- AI Profile Manager (RAG, Redis, LangGraph/LangFuse, OpenAI, Python / FastApi, HTML/CSS/JS)
 - Resume Engine (SQS, Lambda, Java / Spring Boot, RDS/S3, pgvector, React)
 - Penn Ball V2 (Python / FastAPI, React, Scikit-learn, Claude API)
 
